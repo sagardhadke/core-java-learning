@@ -6,6 +6,7 @@
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/01_Java_Basics_1_To_5/Level-1" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Arithmetic" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Increment_Decrement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Logical" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Relational" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
