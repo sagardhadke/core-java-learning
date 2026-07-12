@@ -8,8 +8,10 @@
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Increment_Decrement" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Logical" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Relational" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Assignment" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
