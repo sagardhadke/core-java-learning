@@ -4,8 +4,14 @@
     <exclude-output />
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/01_Java_Basics_1_To_5/Level-1" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Arithmetic" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Increment_Decrement" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Logical" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Relational" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/Questions &amp; Exam/06_all_operators/Assignment" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="KotlinJavaRuntime" level="project" />
   </component>
 </module>
