@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Bonus Challenge Question (Optional)
 
 public class LeapYearChecker {

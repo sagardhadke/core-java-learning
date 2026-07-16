@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Question 10: Simple Calculator (switch)
 
 public class SimpleCalculator {

@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Question 8: Number Sign Check
 
 public class NumberSignCheck {

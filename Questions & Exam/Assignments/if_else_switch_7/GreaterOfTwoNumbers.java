@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Question 4: Greater of Two Numbers
 
 public class GreaterOfTwoNumbers {

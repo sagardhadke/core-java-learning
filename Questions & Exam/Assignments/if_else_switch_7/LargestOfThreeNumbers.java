@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Question 7: Largest of Three Numbers
 
 public class LargestOfThreeNumbers {

@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 // Question 6: Student Grade Calculator
 
 public class StudentGradeCalculator {

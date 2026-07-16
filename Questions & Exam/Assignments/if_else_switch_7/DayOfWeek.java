@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Question 9: Day of Week (switch)
 
 public class DayOfWeek {

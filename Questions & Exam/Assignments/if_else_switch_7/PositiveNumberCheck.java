@@ -1,5 +1,3 @@
-package if_else_switch_7;
-
 //* Positive Number Check
 
 public class PositiveNumberCheck {
