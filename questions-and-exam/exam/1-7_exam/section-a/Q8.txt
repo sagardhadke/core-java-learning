@@ -1,0 +1,10 @@
+
+    Q8. int x = 3; switch(x) { case 3: System.out.println("Three"); case 4:
+    System.out.println("Four"); } — What prints?
+    [0.5]
+    (a) Three
+    (b) Four
+    (c) Three followed by Four
+    (d) Nothing
+
+    Answer : (c) Three followed by Four

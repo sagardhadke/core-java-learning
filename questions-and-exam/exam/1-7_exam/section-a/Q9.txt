@@ -1,0 +1,8 @@
+
+    Q9. Which data type CANNOT be used as a switch expression in Java? [0.5]
+    (a) int
+    (b) char
+    (c) boolean
+    (d) String
+
+    Answer : (b) char

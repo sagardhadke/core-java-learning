@@ -1,0 +1,11 @@
+
+    Q14. What is the exact output? [1]
+    int a = 5, b = 10;
+    System.out.println(a == b);
+    System.out.println(a != b);
+    System.out.println(a <= b);
+
+    Answer:
+        false
+        true
+        true

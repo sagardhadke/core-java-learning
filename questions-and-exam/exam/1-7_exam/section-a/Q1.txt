@@ -1,0 +1,8 @@
+
+    Q1. Which of the following correctly declares a long variable in Java? [0.5]
+    (a) long x = 10;
+    (b) long x = 10L;
+    (c) Both (a) and (b) are valid
+    (d) long x = 10.0;
+
+    Answer: (c) Both (a) and (b) are valid

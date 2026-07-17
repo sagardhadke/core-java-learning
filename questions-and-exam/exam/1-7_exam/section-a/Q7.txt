@@ -1,0 +1,8 @@
+
+    Q7. What happens if no case matches in a switch and there is NO default? [0.5]
+    (a) Compile-time error
+    (b) Runtime exception
+    (c) The first case executes automatically
+    (d) Nothing — execution continues after the switch block
+
+    Answer: (d) Nothing — execution continues after the switch block

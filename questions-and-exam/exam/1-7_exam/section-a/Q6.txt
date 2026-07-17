@@ -1,0 +1,8 @@
+
+    Q6. In an if-else-if ladder, what happens once the FIRST true condition is found? [0.5]
+    (a) All remaining conditions are still evaluated
+    (b) Only the very next condition is also evaluated
+    (c) All remaining conditions and blocks are skipped entirely
+    (d) A runtime exception is thrown
+
+    Answer : (c) All remaining conditions and blocks are skipped entirely

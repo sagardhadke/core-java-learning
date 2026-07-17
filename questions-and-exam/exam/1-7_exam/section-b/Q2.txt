@@ -1,0 +1,8 @@
+
+    Q12. What is the exact output? [1]
+    int a = 5;
+    a += 3;
+    a *= 2;
+    System.out.println(a);
+
+    Answer: 10

@@ -1,0 +1,9 @@
+
+    Q13. What is the exact output? [1]
+    int j = 7;
+    j++;
+    ++j;
+    int k = j++;
+    System.out.println(j + " , " + k);
+
+    Answer: 10 , 9

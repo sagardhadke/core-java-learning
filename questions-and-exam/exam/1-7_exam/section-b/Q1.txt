@@ -1,0 +1,9 @@
+
+    Q11. What is the exact output? [1]
+    int a = 17, b = 5;
+    System.out.println(a / b);
+    System.out.println(a % b);
+
+    Answer:
+        3.4
+        0

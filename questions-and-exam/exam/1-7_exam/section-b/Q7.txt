@@ -1,0 +1,12 @@
+
+    Q17. What is the exact output? [1]
+    int a = 1;
+    if (a > 0)
+    if (a > 5)
+    System.out.println("Greater than 5");
+    else
+    System.out.println("Between 1 and 5");
+    else
+    System.out.println("Not positive");
+
+    Answer: Between 1 and 5

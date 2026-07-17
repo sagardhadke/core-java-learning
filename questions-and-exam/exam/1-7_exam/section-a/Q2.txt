@@ -1,0 +1,8 @@
+
+    Q2. What is the output of: int a = 10; int b = 3; System.out.println(a % b); [0.5]
+    (a) 3
+    (b) 0
+    (c) 1
+    (d) 3.33
+
+    Answer : (c) 1

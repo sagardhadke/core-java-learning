@@ -1,0 +1,10 @@
+
+    Q15. What is the exact output? [1]
+    boolean x = (10 > 5) && (3 < 1);
+    boolean y = (10 > 5) || (3 < 1);
+    System.out.println(x);
+    System.out.println(y);
+
+    Answer:
+        false
+        true

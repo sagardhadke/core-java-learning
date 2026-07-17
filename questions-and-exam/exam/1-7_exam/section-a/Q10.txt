@@ -1,0 +1,10 @@
+
+    Q10. What does the following print? int a = 5; System.out.println(a++);
+    System.out.println(a);
+    [0.5]
+    (a) 5 then 5
+    (b) 6 then 6
+    (c) 5 then 6
+    (d) 6 then 5
+
+    Answer : (c) 5 then 6

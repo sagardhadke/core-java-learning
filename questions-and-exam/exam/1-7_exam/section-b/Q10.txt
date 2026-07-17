@@ -1,0 +1,7 @@
+
+    Q20. What is the exact output? [1]
+    int a = 4, b = 3, c = 2;
+    int result = a * b + c * b - a / b;
+    System.out.println(result);
+
+    Answer: 16

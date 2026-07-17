@@ -1,0 +1,8 @@
+
+    Q3. int j = 5; int k = j++; — What are the values of j and k after this line? [0.5]
+    (a) j = 5, k = 5
+    (b) j = 6, k = 5
+    (c) j = 6, k = 6
+    (d) j = 5, k = 6
+
+    Answer : (a) j = 5, k = 5

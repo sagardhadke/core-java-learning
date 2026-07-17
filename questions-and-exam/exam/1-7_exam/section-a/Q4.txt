@@ -1,0 +1,8 @@
+
+    Q4. Which of the following will cause a compile-time error? [0.5]
+    (a) int a = 'A';
+    (b) double d = 5;
+    (c) float f = 3.14;
+    (d) long l = 100L;
+
+    Answer : (a) int a = 'A';

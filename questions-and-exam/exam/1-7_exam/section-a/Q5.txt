@@ -1,0 +1,8 @@
+
+    Q5. What is the result of: boolean x = (5 > 3) && (10 < 5); [0.5]
+    (a) true
+    (b) false
+    (c) 1
+    (d) Compile error
+
+    Answer : (b) false
